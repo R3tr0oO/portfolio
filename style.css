@@ -326,21 +326,5 @@
   }
   
 
-  /* Création du style des skills bar */
-
-  .skills {
-    text-align: right; /* Right-align text */
-    padding-top: 10px; /* Add top padding */
-    padding-bottom: 10px; /* Add bottom padding */
-    color: var(--color); /* White text color */
-  }
-  
-  .html { width: 90%; background-color: var(--neon2); } 
-  .css { width: 80%; background-color: var(--neon2); }
-  .js { width: 50%; background-color: var(--neon2); } 
-  .php { width: 70%; background-color: var(--neon2); } 
-  .Csharp { width: 50%; background-color: var(--neon2); }
-  .python { width: 70%; background-color: var(--neon2); }
-  .java { width: 55%; background-color: var(--neon2); }
 
   
